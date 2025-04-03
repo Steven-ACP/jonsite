@@ -1,0 +1,10 @@
+/** @format */
+
+div[class^="col"] {
+  border: 4px solid black;
+  min-height: 100px;
+}
+
+body {
+  background-color: rgb(109, 109, 109);
+}
